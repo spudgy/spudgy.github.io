@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+I am a passionate developper that likes puzzles and breaking stuff.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You can find me actively reversing games or updating stuff.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tehspudgy@gmail.com](mailto:tehspudgy@gmail.com)
